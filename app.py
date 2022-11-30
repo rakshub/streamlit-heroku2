@@ -8,6 +8,6 @@ st.write("""
 a = st.number_input("Enter the first number")
 b = st.number_input("Enter the second number")
 
-s = a+b 
+s = a-b 
 st.write("Sum of the two numbers are:",s)
 st.write("Credits: 21f1005104")
